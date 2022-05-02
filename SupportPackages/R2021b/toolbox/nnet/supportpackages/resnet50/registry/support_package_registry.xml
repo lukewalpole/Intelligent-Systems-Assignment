@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<!--Copyright 2017-2020 The MathWorks, Inc. -->
+
+<RTTPackageRepository>
+    <SupportPackage
+        name="ResNet-50"
+        displayname="Deep Learning Toolbox Model for ResNet-50 Network"
+        fullname="Deep Learning Toolbox Model for ResNet-50 Network"
+        version="21.2.0"
+        basecode="RESNET50"
+        infotext="Deep Learning Toolbox Model for ResNet-50 Network"
+        platform="PCWIN,PCWIN64,GLNXA64,MACI64"
+        visible="1"
+        enable="1"
+        baseproduct="Deep Learning Toolbox"
+        url="http://www.mathworks.com"
+        downloadurl=""
+        licenseurl=""
+        supportcategory="software"
+        folder="resnet50">
+        <Path name="$(INSTALLDIR)/resnet50"></Path>
+    </SupportPackage>
+</RTTPackageRepository>

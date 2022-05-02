@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productData>
+  <altDependencies>
+    <product>
+      <productBaseCode>NN</productBaseCode>
+      <productName>Deep Learning Toolbox</productName>
+      <productNumber>12</productNumber>
+      <productVersion>14.3</productVersion>
+      <releaseDescription>R2021b</releaseDescription>
+      <releaseFamily>R2021b</releaseFamily>
+    </product>
+  </altDependencies>
+  <dependsOn>
+    <component>
+      <name>hardwaresupportpkgs/licenses/asla_license_common</name>
+      <instrset>0</instrset>
+      <locale />
+      <platformList>
+        <platform>glnxa64</platform>
+        <platform>maci64</platform>
+        <platform>win64</platform>
+      </platformList>
+      <version>1626858535</version>
+    </component>
+    <component>
+      <name>softwaresupportpkgs/nnet/resnet50_common</name>
+      <instrset>0</instrset>
+      <locale />
+      <platformList>
+        <platform>glnxa64</platform>
+        <platform>maci64</platform>
+        <platform>win64</platform>
+      </platformList>
+      <version>1621118359</version>
+    </component>
+  </dependsOn>
+  <installerUsage>
+    <usage>professional</usage>
+  </installerUsage>
+  <isControllingProduct>false</isControllingProduct>
+  <licenseAgreementType>ASLA</licenseAgreementType>
+  <platformList>
+    <platform>glnxa64</platform>
+    <platform>maci64</platform>
+    <platform>win64</platform>
+  </platformList>
+  <productBaseCode>RESNET50</productBaseCode>
+  <productName>Deep Learning Toolbox Model for ResNet-50 Network</productName>
+  <productNumber>2172</productNumber>
+  <productType>softwareSupportPkg</productType>
+  <productVersion>21.2.0</productVersion>
+  <releaseDescription>R2021b</releaseDescription>
+  <releaseFamily>R2021b</releaseFamily>
+  <requiredProducts />
+</productData>
+

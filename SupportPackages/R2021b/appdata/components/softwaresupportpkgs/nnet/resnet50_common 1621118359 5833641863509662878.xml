@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>softwaresupportpkgs/nnet/resnet50</componentBaseName>
+    <componentFileName>softwaresupportpkgs/nnet/resnet50_common_1621118359.zip</componentFileName>
+    <componentName>softwaresupportpkgs/nnet/resnet50_common</componentName>
+    <componentVersion>1621118359</componentVersion>
+    <instrset>0</instrset>
+    <locale />
+    <locationId>1</locationId>
+    <numFiles>9</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2021b</releaseFamily>
+    <size>95468700</size>
+    <type />
+    <uncompressedBytes>95456532</uncompressedBytes>
+  </component>
+</componentData>
+
